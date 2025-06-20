@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Launch",
+            "program": "${workspaceFolder}/imdbtest",
+            "args": [
+                "Meryl Streep"
+            ],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
